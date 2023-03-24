@@ -2,10 +2,10 @@
 
 ## **ÍNDICE**
 
-* [1. Intro](https://github.com/tere-reyna98/clonaciongoogle/edit/main/README.md#1-intro)
-* [2. Qué construí](https://github.com/tere-reyna98/clonaciongoogle/edit/main/README.md#2-qu%C3%A9-constru%C3%AD)
-* [3. Objetivo del Proyecto](https://github.com/tere-reyna98/clonaciongoogle/edit/main/README.md#3-objetivos-del-proyecto)
-* [4. Link a Demo](https://github.com/tere-reyna98/clonaciongoogle/edit/main/README.md#4-link-a-demo)
+* [1. Intro](https://github.com/tere-reyna98/clonaciongoogle/blob/main/README.md#1-intro)
+* [2. Qué construí](https://github.com/tere-reyna98/clonaciongoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
+* [3. Objetivo del Proyecto](https://github.com/tere-reyna98/clonaciongoogle/blob/main/README.md#3-objetivos-del-proyecto)
+* [4. Link a Demo](https://github.com/tere-reyna98/clonaciongoogle/blob/main/README.md#4-link-a-demo)
 
 ****
 
