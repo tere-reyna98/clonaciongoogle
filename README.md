@@ -28,6 +28,6 @@ logo, barra de busqueda, iconos y botones.
 Aprender a utilizar las etiquetas estándar de HTML5 y CSS3.
 
 ## 4. Link a Demo
-Aqui puedes visualizar mi proyecto temrinado: [Clonación de Google](#)
+Aqui puedes visualizar mi proyecto temrinado: [Clonación de Google](https://spectacular-haupia-278cd7.netlify.app/)
 
 
